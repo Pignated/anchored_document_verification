@@ -1,5 +1,0 @@
-How to get your current balance on the test net:
-cast balance --rpc-url https://sepolia-rollup.arbitrum.io/rpc --ether 0xD545474d4997854F889b6f045C458e2a57463392
-
-
-
