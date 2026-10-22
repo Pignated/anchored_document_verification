@@ -4,3 +4,8 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+alloy = { version = "2.5.0", features = ["contract", "json", "node-bindings"] }
+clap = "4.6.7"
+indicatif = "0.18.6"
+time = "0.3.55"
+tokio = { version = "1.53.1", features = ["rt-multi-thread"] }
